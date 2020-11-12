@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hoticehands.github.io/sitemap.xml
+
+DaumWebMasterTool:221c9297f589e6a6e155a0db424381d768618e3549b133dca34c7dcd8b5bc314:AjqBsM5N9OwqdGhcHVi0YA==
