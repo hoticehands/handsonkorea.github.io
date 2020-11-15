@@ -2,7 +2,7 @@
 layout: post
 permalink: /before_you_business_korea/
 title: 'Before You "Business" in South Korea'
-date: 2020-11-15 21:17:00 +09:00
+date: 2020-11-15 23:40:00 +09:00
 feature: '/img/posts/003/articletn.jpg'
 background: '/img/posts/003/articlemain.jpg'
 categories:
