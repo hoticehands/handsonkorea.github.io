@@ -1,9 +1,10 @@
 // 아래에 폰트를 불러오는 코드를 넣어주세요.
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Nanum+Myeongjo:wght@400;700&display=swap');// Global styling for this template
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
 body {
   font-size: 20px;
   color: $gray-900;
-  font-family: 'Libre Baskerville''Nanum Myeongjo', sans-serif;
+  font-family: 'Libre Baskerville', sans-serif;
 }
 
 p {
