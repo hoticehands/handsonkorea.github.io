@@ -4,7 +4,7 @@ email:              "yc.sohn32@gmail.com"
 description:        "외국인들을 위한 대한민국의 마케팅, 트렌드, 문화 이야기"
 author:             "Yoo-Chan Sohn"
 baseurl:            "/"
-url:                "https://handsonkorea.github.io"
+url:                "https://hoticehands.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/blogthumbnail.jpg"
 
