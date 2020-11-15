@@ -6,7 +6,7 @@ date: 2020-11-15 23:40:00 +09:00
 feature: '/img/posts/003/articletn.jpg'
 background: '/img/posts/003/articlemain.jpg'
 categories:
-  - Korean Market
+  - marketing
 tags:
   - Korea
   - Korean Market
