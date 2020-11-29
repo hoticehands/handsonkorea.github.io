@@ -18,17 +18,6 @@
 
   {% include scripts.html %}
 
-<script>
-  var postsID = document.querySelector('#post-content');
-
-  var viewPosts = function (){
-    dataLayer.push({
-      'event': 'viewPosts'
-    });
-  }
-
-  postsID.addEventListener('click', viewPosts);
-</script>
 
 </body>
 
