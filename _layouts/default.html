@@ -19,15 +19,16 @@
   {% include scripts.html %}
 
 <script>
-  var postsID = document.querySelector(#'post-content');
+  var postsID = document.querySelector(#'navbarResponsive');
 
   var viewPosts = function (){
     dataLayer.push({
+      'name': 'ALL',
       'event': 'viewPosts'
     });
   }
 
-  postsID.addEventListener('load', viewPosts);
+  postsID.addEventListener('click', viewPosts);
 </script>
 
 </body>
