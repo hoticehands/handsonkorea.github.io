@@ -6,7 +6,7 @@ date: 2020-11-25 16:47:00 +09:00
 feature: '/img/posts/004/articlethumbnail.jpg'
 background: '/img/posts/004/articlemain.jpg'
 categories:
-  - koreanpost
+  - trends
 tags:
   - 마케팅
   - 광고
